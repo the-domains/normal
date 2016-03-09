@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Normal]]></title>
         <description><![CDATA[Normal]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/normal/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 19:45:07 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 09 Mar 2016 19:47:34 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/normal/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/734a7fe6-bc5d-4def-8579-e5cd2074352b.jpg">]]></description>
+            <link>https://thegrid.ai/normal/este-e-um-segundo-teste/index.html</link>
+            <guid isPermaLink="false">414ed611-ba5e-4252-937e-cefcec80baf5</guid>
+            <pubDate>Wed, 09 Mar 2016 19:46:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/550dac4a-ba15-49e9-9d96-2adf061ace3c.jpg">]]></description>
-            <link>undefined011ed887-03bd-491d-aced-ad1237b435da/index.html</link>
+            <link>https://thegrid.ai/normal/011ed887-03bd-491d-aced-ad1237b435da/index.html</link>
             <guid isPermaLink="false">011ed887-03bd-491d-aced-ad1237b435da</guid>
             <pubDate>Wed, 09 Mar 2016 19:44:38 GMT</pubDate>
         </item>
