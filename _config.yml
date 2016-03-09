@@ -1,14 +1,29 @@
+name: Normal
+favicon: null
 layout_spectrum: 0
 typography_spectrum: 0.3153457
+title: Normal
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  lightness: 0.4814503
-  brandStrength: 0.8313659
-  saturation: 0.7866779
-  rhythmicContrast: 0.9915683
   brandColors:
     - '#D8D8D8'
     - '#020101'
     - '#AB8153'
     - '#88B5B3'
     - '#6D7865'
-name: Normal
+  brandStrength: 0.8313659
+  lightness: 0.4814503
+  saturation: 0.7866779
+  rhythmicContrast: 0.9915683
+purpose: []
