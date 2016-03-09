@@ -2,10 +2,10 @@
 author: []
 related: []
 publisher:
-  url: 'http://www.core77.com'
   name: Core77
-  favicon: 'https://static.core77.com/images/favicons/favicon-32x32.png'
   domain: www.core77.com
+  url: 'http://www.core77.com'
+  favicon: 'https://static.core77.com/images/favicons/favicon-32x32.png'
 keywords:
   - plate
   - cabinet
@@ -22,10 +22,11 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.core77.com/posts/48815/Furniture-Design-Reference-Diagrams-of-18th-Century-Furniture-Broken-Down-Into-Its-Components'
 title: Furniture Design Reference
-datePublished: '2016-03-09T18:58:19.168Z'
-dateModified: '2016-03-09T18:57:54.654Z'
+datePublished: '2016-03-09T18:59:02.785Z'
+dateModified: '2016-03-09T18:58:46.168Z'
 sourcePath: _posts/2016-03-09-furniture-design-reference.md
 published: true
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
