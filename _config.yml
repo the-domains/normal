@@ -1,29 +1,41 @@
-name: Normal
-favicon: null
-layout_spectrum: 0.25459
-typography_spectrum: 0.30133
 title: Normal
 cta:
-  domain: null
-  bucket: null
   version: null
+  bucket: null
+  domain: null
+layout_spectrum: 0.2932331
+favicon: null
+name: Normal
+purpose: []
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
+  brandStrength: 1
+  saturation: 1
   brandColors:
     - '#ffffff'
     - '#dddddd'
     - '#191919'
     - '#969696'
     - '#464646'
-  brandStrength: 1
   lightness: 0.5
-  saturation: 1
   rhythmicContrast: 0.5
-purpose: []
+typography_spectrum: 0.30133
