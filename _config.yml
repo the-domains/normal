@@ -1,20 +1,8 @@
-title: Normal
-cta:
-  version: null
-  bucket: null
-  domain: null
-layout_spectrum: 0.2932331
-favicon: null
 name: Normal
-purpose: []
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.0328
+typography_spectrum: 0.30133
+title: Normal
 collections:
   - index:
       navigable: true
@@ -27,15 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  brandStrength: 1
-  saturation: 1
   brandColors:
     - '#ffffff'
     - '#dddddd'
     - '#191919'
     - '#969696'
     - '#464646'
+  brandStrength: 1
   lightness: 0.5
+  saturation: 1
   rhythmicContrast: 0.5
-typography_spectrum: 0.30133
+purpose: []
